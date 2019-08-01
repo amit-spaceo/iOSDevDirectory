@@ -2630,6 +2630,13 @@
             "feed_url": "https://code.allaboutapps.at/categories/ios/index.xml"
           },
           {
+            "title": "iPhone App Development Articles",
+            "author": "Amit Makhija",
+            "site_url": "https://www.spaceotechnologies.com/category/iphone-ipad/",
+            "feed_url": "https://www.spaceotechnologies.com/feed/"
+            "twitter_url": "https://twitter.com/spaceotech"
+          },
+          {
             "title": "App Launch Map",
             "author": "Aleen Simms",
             "site_url": "https://applaunchmap.com/blog/",
